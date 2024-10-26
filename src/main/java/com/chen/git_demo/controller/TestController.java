@@ -7,6 +7,6 @@ public class TestController {
     }
 
     public static void function1() {
-        System.out.println("function 1：第2次提交");
+        System.out.println("function 1：第3次提交");
     }
 }
