@@ -23,7 +23,7 @@ public class TestController {
     }
 
     public static void function4() {
-        System.out.println("function 4: 第2次提交");
+        System.out.println("function 4: 第3次提交");
     }
 
     public static void function5() {
