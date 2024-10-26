@@ -11,15 +11,15 @@ public class TestController {
     }
 
     public static void function1() {
-        System.out.println("function 1：第2次提交");
+        System.out.println("function 1：第4次提交");
     }
 
     public static void function2() {
-        System.out.println("function 2: 第4次提交");
+        System.out.println("function 2: 第5次提交");
     }
 
     public static void function3() {
-        System.out.println("function 3: 第2次提交");
+        System.out.println("function 3: 第3次提交");
     }
 
     public static void function4() {
