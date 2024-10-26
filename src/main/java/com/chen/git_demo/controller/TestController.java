@@ -23,7 +23,7 @@ public class TestController {
     }
 
     public static void function4() {
-        System.out.println("function 3 修改");
+        System.out.println("function 4 修改");
     }
 
     public static void function5() {
