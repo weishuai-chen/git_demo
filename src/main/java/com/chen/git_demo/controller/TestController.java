@@ -21,6 +21,6 @@ public class TestController {
     }
 
     public static void function5() {
-        System.out.println("function 5: 第1次提交");
+        System.out.println("function 5: 第2次提交");
     }
 }
