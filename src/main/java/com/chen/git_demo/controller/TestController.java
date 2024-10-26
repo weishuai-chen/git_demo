@@ -11,17 +11,21 @@ public class TestController {
 
     public static void function1() {
         System.out.println("function 2 修改的");
+        System.out.println("function 3 修改");
     }
 
     public static void function2() {
         System.out.println("function 2 修改的");
+        System.out.println("function 3 修改");
     }
 
     public static void function3() {
         System.out.println("function 2 修改的");
+        System.out.println("function 3 修改");
     }
 
     public static void function5() {
         System.out.println("function 2 修改的");
+        System.out.println("function 3 修改");
     }
 }
