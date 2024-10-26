@@ -19,4 +19,8 @@ public class TestController {
     public static void function3() {
         System.out.println("function 3: 第2次提交");
     }
+
+    public static void function4() {
+        System.out.println("function 4: 第1次提交");
+    }
 }
